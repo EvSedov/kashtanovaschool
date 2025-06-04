@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/"
-# baseURL = "https://evsedov.github.io/kashtanovaschool/"
+# baseURL = "/"
+baseURL = "https://evsedov.github.io/kashtanovaschool/"
 # baseURL = "https://kashtanovaschool.ru/"
 staticDir = ["static"]
 # Title of your website (required).
