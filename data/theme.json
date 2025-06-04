@@ -1,0 +1,56 @@
+{
+  "colors": {
+    "default": {
+      "theme_color": {
+        "primary": "#121212",
+        "body": "#fff",
+        "border": "#eaeaea",
+        "light": "#f6f6f6",
+        "dark": "#040404",
+        "pastel-blue": "#A7D9FF",
+        "pastel-green": "#B2F0B2",
+        "pastel-yellow": "#FFFACD"
+      },
+      "text_color": {
+        "text": "#444444",
+        "text-dark": "#040404",
+        "text-light": "#717171",
+        "pastel-blue": "#A7D9FF",
+        "pastel-green": "#B2F0B2",
+        "pastel-yellow": "#FFFACD"
+      }
+    },
+    "darkmode": {
+      "theme_color": {
+        "primary": "#fff",
+        "body": "#1c1c1c",
+        "border": "#3E3E3E",
+        "light": "#222222",
+        "dark": "#fff",
+        "pastel-blue": "#6DA6D4",
+        "pastel-green": "#7ECB7E",
+        "pastel-yellow": "#FFE066"
+      },
+      "text_color": {
+        "text": "#B4AFB6",
+        "text-dark": "#fff",
+        "text-light": "#B4AFB6",
+        "pastel-blue": "#6DA6D4",
+        "pastel-green": "#7ECB7E",
+        "pastel-yellow": "#FFE066"
+      }
+    }
+  },
+  "fonts": {
+    "font_family": {
+      "primary": "Heebo:wght@400;600",
+      "primary_type": "sans-serif",
+      "secondary": "Signika:wght@500;700",
+      "secondary_type": "sans-serif"
+    },
+    "font_size": {
+      "base": "16",
+      "scale": "1.2"
+    }
+  }
+}
